@@ -1,5 +1,5 @@
 # Hello-World
 Starting of a new project in my new world learning code
-I'm currently working on becoing a software developer through the Open University.
+I'm currently working on becoming a software developer with Javascript.
 My passion is in compters and learning new things with them.
-I enjoy my apple products lol
+I am sadly a apple fanboy
